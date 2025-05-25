@@ -16,15 +16,11 @@ A VSCode extension that lets you use the power of GigaChat to improve the qualit
 
     ###"Rewrite with GigaChat" command - Generates an new version of the code, with new functions that user asks for, and displays it in an HTML window, asking the user whether to rewrite the original code. If the user agrees to rewrite, the command automatically creates a backup file of the original code and replaces all the code with new one.
 
-##Requirements
-
-##Extension Settings
-
 ##Known Issues
 
     ###Internet connection required
 
-    ###You will need to obtain your own:
+    ###You will need to get your own:
 
         GigaChat API key
 
